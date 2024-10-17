@@ -3,7 +3,7 @@ Version:	54512
 Release:	2
 Summary:	A collection of LaTeX beamer themes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-npbt
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-npbt
 License:	gpl3 pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamertheme-npbt.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamertheme-npbt.doc.r%{version}.tar.xz
